@@ -14,5 +14,4 @@
 - With this informations, calculated the distance between then using Pitagoras, but first transformed then into meters
 - Print the velocity of the space station in the moment that the script is started.
 
-![Astronaut](/assets/pic2.jpg)
 <a href='https://br.freepik.com/fotos-vetores-gratis/fundo'>Fundo vetor criado por pikisuperstar - br.freepik.com</a>
