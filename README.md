@@ -1,5 +1,5 @@
 # Space-Station
-
+![This is an image](https://br.freepik.com/vetores-premium/astronauta-flutuante-com-ilustracao-de-planeta-de-mensagem-tecnologia-comunicacao_13289902.htm)
 ## 🚀 How to execute:
 - Clone the repository using git clone.
 - Have Jupyter Notebook installed.
