@@ -2,10 +2,10 @@
 
 ![Space Image](/assets/2299682.jpg)
 ## 🚀 How to execute:
-- Clone the repository using git clone.
-- Have Jupyter Notebook installed.
-- Install the dependencies (pandas, plotyexpress)
-- Run the application on your notebook
+- [ ] Clone the repository using git clone.
+- [ ] Have Jupyter Notebook installed.
+- [ ] Install the dependencies (pandas, plotyexpress)
+- [ ] Run the application on your notebook
 
 ## 🔎 Understanding:
 - First read the api that have information about where the space station is
