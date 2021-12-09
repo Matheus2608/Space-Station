@@ -1,5 +1,5 @@
 # Space-Station
-
+![Space Image](/assets/2299682.jpg)
 ## 🚀 How to execute:
 - Clone the repository using git clone.
 - Have Jupyter Notebook installed.
