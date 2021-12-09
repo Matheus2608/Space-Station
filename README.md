@@ -1,6 +1,6 @@
 # Space-Station
-<a href='https://br.freepik.com/fotos-vetores-gratis/fundo'>Fundo vetor criado por pikisuperstar - br.freepik.com</a>
-![This is an image](https://br.freepik.com/vetores-premium/astronauta-flutuante-com-ilustracao-de-planeta-de-mensagem-tecnologia-comunicacao_13289902.htm)
+
+![Space Image](/assets/2299682.jpg)
 ## 🚀 How to execute:
 - Clone the repository using git clone.
 - Have Jupyter Notebook installed.
@@ -13,3 +13,5 @@
 - Get information about the location about the space station now and one minute after
 - With this informations, calculated the distance between then using Pitagoras, but first transformed then into meters
 - Print the velocity of the space station in the moment that the script is started.
+
+<a href='https://br.freepik.com/fotos-vetores-gratis/fundo'>Fundo vetor criado por pikisuperstar - br.freepik.com</a>
